@@ -1,2 +1,2 @@
 # toom
-local singleshot decoders for repetition code with noisy syndromes. 
+What is the optimum single shot threshold for a given code with a specific set of stabilizers? Investigating maximum likelyhood singleshot decoders as a candidate. Focused on the quantum repetition code for simplicity. 
